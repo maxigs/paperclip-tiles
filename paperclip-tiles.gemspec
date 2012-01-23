@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name              = "paperclip-tiles"
   s.version           = Paperclip::Tiles::VERSION
   s.platform          = Gem::Platform::RUBY
-  s.author            = "Benjamin Hüttinger"
+  s.author            = "Benjamin Huettinger"
   s.email             = ["gems@maxigs.de"]
   s.homepage          = "https://github.com/maxigs/paperclip-tiles"
   s.summary           = "Tile extension for Paperclip to split large images into tiles."

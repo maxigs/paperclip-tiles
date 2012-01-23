@@ -1,3 +1,5 @@
 module Paperclip
-  VERSION = "0.0.1.pre"
+  module Tiles
+    VERSION = "0.0.0"
+  end
 end
